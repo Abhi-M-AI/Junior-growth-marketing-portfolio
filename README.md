@@ -12,8 +12,7 @@ I am Abhishek Dixit, a PGDM Marketing & Research Analytics student at Lexicon MI
 
 ### 2. Claude Code (Cursor Extension)
 - Installed via Cursor Extensions panel
-- Logged in successfully
-- Used for AI-assisted writing and code support
+- Note: Full login requires Claude Pro plan 
 
 ### 3. Codex (Cursor Extension)
 - Installed via Cursor Extensions panel
@@ -26,7 +25,7 @@ I am Abhishek Dixit, a PGDM Marketing & Research Analytics student at Lexicon MI
 
 ## Steps Completed
 - Installed Cursor IDE
-- Added Claude Code extension and logged in
+- Added Claude Code extension (full login requires Claude Pro/Max; used Cursor's built-in AI as alternative)
 - Added Codex extension and logged in
 - Created GitHub account
 - Created public repository
@@ -38,6 +37,9 @@ I am Abhishek Dixit, a PGDM Marketing & Research Analytics student at Lexicon MI
 
 - **Challenge:** Git Clone command was not showing in Cursor
   **Solution:** Researched on YouTube and used AI assistance to identify the root cause — Git was not installed on my system. Installed Git from https://git-scm.com/, restarted Cursor and the Git Clone command worked successfully after that.
+
+- **Challenge:** Claude Code extension required a paid Claude Pro/Max subscription to log in fully
+  **Solution:** Used Cursor's built-in AI assistant as a free alternative and documented this limitation.
 
 - **Challenge:** Could not locate the Extensions panel in Cursor
   **Solution:** Searched on YouTube and discovered it is available in the left sidebar of Cursor. Installed both Claude Code and Codex extensions from there without any further issues.
