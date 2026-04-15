@@ -1,4 +1,4 @@
-# Eli Schwartz — LinkedIn Posts
+# Ryan Law — LinkedIn Posts
 
 **Profile:** https://www.linkedin.com/in/thinkingslow/ 
 **Collected on:** 16-April-2026
@@ -18,6 +18,7 @@ We have reached the point where generative AI can create content indistinguishab
 AI has become a more thorough researcher, a more compliant adherent to brand and voice guidelines, more flexible in its response to feedback, faster, and more efficient. There is no longer a trade-off inherent in using AI for content creation.
 
 This is a painful topic of conversation, but one I think is completely necessary. The path forward will only be found if we are honest about where AI can, and should, be used.
+
 ---
 
 ## Post 2
@@ -43,6 +44,7 @@ in the LONG-TERM, we will continue to see AI platforms democratize access to all
 crucially, consumer demand will continue to exist, marketing will continue to exist, and yes, CONTENT MARKETING will continue to exist. content remains the single most important medium for influencing traditional and AI search.
 
 but crucially, the unit economics, processes, mediums, and performance expectations of content will change radically. what worked previously will be little guide for what works in the future. the onus is on you to start experimenting and porting your very valuable skills into a new, more valuable format :)
+
 ---
 
 ## Post 3
