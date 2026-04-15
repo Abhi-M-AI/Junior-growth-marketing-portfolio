@@ -113,7 +113,7 @@ Small traffic. Big checks.
 ---
 
 ## Post 3
-**Date:** 3 Weeks agi
+**Date:** 3 Weeks ago
 
 Most SEO (and AEO) pages convert like garbage. Not because the content is bad. Because every page is built from scratch.
 

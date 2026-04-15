@@ -1,12 +1,13 @@
 # Michał Suski — LinkedIn Posts
 
-**Profile:** https://www.linkedin.com/in/michal-suski/ 
+**Profile:** [https://www.linkedin.com/in/michal-suski/](https://www.linkedin.com/in/michal-suski/) 
 **Collected on:** 16-April-2026
 **About Him** AI SEO speaker, coach, practicioner and Positive Surfer!
 
-
 ---
+
 ## Post 1
+
 **Date:** 1 Months ago
 
 Damn… I didn’t even realize how much we shipped in just 2 months 🤯
@@ -28,9 +29,10 @@ And honestly — there’s a really solid recap video in the roundup. Worth watc
 
 If you’re still treating AI visibility as a “nice SEO add-on,” 2026 might hurt.
 
-
 ---
+
 ## Post 2
+
 **Date:** 2 Months ago
 
 AI SEO in 2026 isn’t “new SEO.” It’s a new buyer behavior.
@@ -52,10 +54,10 @@ KPIs go back to basics → revenue / leads + “where did you find us?” (self-
 If I had to summarize it in one sentence:
 The best content doesn’t win — the most citable content + consistent brand representation does.
 
-
 ---
 
 ## Post 3
+
 **Date:** 4 Months ago
 
 Stop obsessing over word count. It’s the wrong metric.

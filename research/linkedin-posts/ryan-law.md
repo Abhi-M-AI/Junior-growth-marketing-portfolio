@@ -61,3 +61,4 @@ As I stare in disbelief at my GSC account, it certainly seems that the impact of
 We found that the presence of an AI Overview now correlates with a 58% lower average click-through rate for the top-ranking page. Incredible.
 
 Or another fun framing: for every 100 clicks you could historically earn for a top-ranking page, Google now “keeps” 58.
+
