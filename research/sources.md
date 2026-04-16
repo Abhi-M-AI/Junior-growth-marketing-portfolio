@@ -143,5 +143,4 @@ Eli Schwartz, Ross Hudgens, and Michal Suski all converge on the same point from
 Michal Suski's Surfer data shows cited pages have 29–62% more facts than non-cited pages. Ryan Law's Ahrefs data shows AI Overviews are already reducing clicks by 58%. The content winning in AI search says more, not more words.
 
 **4. AI is a production tool, not a strategy**
-The experts who are winning treat AI as a way to execute faster on a sound content strategy — not as the strategy itself. Brendan Hufford's case study, Chima Mmeje's workflow framework, and Ryan Law's content pipeline thinking all point to the same conclusion: human editorial judgment combined with AI production speed is the winning formula. Write this entire content into research/sources.md (overwrite existing content):
-[paste above]
+The experts who are winning treat AI as a way to execute faster on a sound content strategy — not as the strategy itself. Brendan Hufford's case study, Chima Mmeje's workflow framework, and Ryan Law's content pipeline thinking all point to the same conclusion: human editorial judgment combined with AI production speed is the winning formula. 
